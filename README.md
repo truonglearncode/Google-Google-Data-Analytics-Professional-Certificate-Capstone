@@ -67,7 +67,7 @@ I choose to work with just half year of 2024 data it very nearly. I download all
 `202405-divvy-tripdata.csv`
 `202406-divvy-tripdata.csv`
 
-I store it in prive local computer with folder named is: [Bike-Share-Data]() and start to direct them to next step
+I store it in prive local computer with folder named is: [Bike-Share-Data](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/tree/main/Bike-Share-Data) and start to direct them to next step
 
 ### 3. Process
 ### 4. Analyze
