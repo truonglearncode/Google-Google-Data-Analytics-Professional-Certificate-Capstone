@@ -10,7 +10,7 @@
  - [Scenario](#scenario)
  - [About the company](#company)
  - [My Solutions](#solutions)
- - [Key Finding and Recommendation](#F&R)
+ - [Bottom Line](#bottomline)
 
 ## Introduction <a class = 'anchor' id = 'introduction'></a>
 
@@ -89,13 +89,117 @@ In this case, I challange myself with 3 tool popular for analysis is `Excel`, `P
 
 ### 4. Analyze
 
-Download and View my analyze in `Excel` here: [Data Exploration Analysis - Excel.xlsx]()
-View my analyze in `Python` here: [Data Exploration Analysis - Python.ipynb]()
-View my analyze in `SQL` here: [Data Exploration Analysis - SQL.sql]()
+- Download and View my analyze in `Excel` here: [Data Exploration Analysis - Excel.xlsx](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/blob/main/Data%20Exploration%20Analysis%20-%20Excel.xlsx)
+- View my analyze in `Python` here: [Data Exploration Analysis - Python.ipynb](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/blob/main/Data%20Exploration%20Analysis%20-%20Python.ipynb)
+- View my analyze in `SQL` here: [Data Exploration Analysis - SQL.sql](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/blob/main/Data%20Exploration%20Analysis%20-%20SQL.sql)
 
 ### Share
 
+**Q1: Current differrent of each member? Quantity and Percentage?**
 
+- 66.13% of the members are categorized as "member".
+
+- 33.87% of the members are categorized as "casual".
+
+=> Company goal is convert casual customer to member customer but first of all need to keep our member customer always using service and avoid risk to lost there customer in the future
+
+**Q2: Different about using type of bike by each member? Quantity and Percentage?**
+
+`Classic bike usage:`
+
+- Members use classic bikes more frequently than casual users.
+
+- 67.03% of members use classic bikes, while only 32.97% of casual users do.
+
+`Electric bike usage:`
+
+- Members and casual users have similar usage patterns for electric bikes.
+
+- 65.22% of members use electric bikes, and 34.78% of casual users do.
+
+`Overall bike usage:`
+
+- Members are more likely to use bikes overall compared to casual users.
+
+- This is evident from the higher percentages of both classic and electric bike usage among members.
+
+**Q3. How many member of each type using bike service each month? Calculate Percentage for each type of member each month?**
+
+- `Members` customer consistently have higher usage rates compared to casual users throughout the half of year.
+
+- For `Member` customers have the highest usage occurs in January and tend to decrease in following month. Opposite with `Member customer`, `Casual` customer have the lowest usage occurs in first month of the year and tend to increase in following month.
+
+- I need to find out what things make usage of each customer so different and how i can do to avoid this situation in the future. Then I can predict fluctuation of each customer segment using bike service in the end of the year
+
+**Q4. How many member of each type using bike service each day of week? Calculate Percentage for each type of member each day of week?**
+
+- In weekday, both customer segment have a similar usage of using bike service around 70% for `Member customer` and around 30% for `Casual customer`. But this metrics is verry diffence in weekend. 
+- With `Member customer`, they want to using time in weekend for family, friend, hang out so this make `Member customer` don' like using bike service in weekend and usage of them tend to decrease from Friday to Sunday. 
+- With `Casual customer`, they want to using bike more often in weekend because they want a bike for transportation or using bike for exercise so usage of them tend to increase in weekend. Good new, in sunday usage of both almost equaly around 50%
+
+**Q5. Overall average duration compare with Avg duration on week day by each member?**
+
+- Average duration of 'Casual customer` is 27 minutes
+
+- Average duration of 'Member customer` is 13 minutes
+
+- Both member and casual usage times increase on Saturday and Sunday, indicating longer rides or trips on weekends.
+
+**Q6. Number of Members Using Bike Service Each Hour of the Day? Percentage of Members Using Bike Service for Each Hour? Overall Percentage for the Entire Day?**
+
+`Peak usage:`
+
+- The highest usage occurs between 4 PM and 5 PM, with a peak of 10.50% at 5 PM.
+
+- Usage gradually increases from the early morning hours, reaching its peak in the afternoon.
+
+`Off-peak usage:`
+
+- The lowest usage occurs in the early morning hours, with a minimum of 0.25% at 4 AM.
+
+- Usage remains relatively low throughout the night and early morning.
+
+`Consistent usage:`
+
+- The usage percentage remains relatively consistent throughout the day, with minor fluctuations.
+
+- This suggests a steady demand for the service throughout the day.
+
+**Q7. Most popular start station for each member is?**
+
+Top 3 start station `Casual customer` more often using bike service
+- Streeter Dr & Grand Ave
+- DuSable Lake Shore Dr & Monroe St
+- Michigan Ave & Oak St
+
+Top 3 start station `Members customer` more often using bike service
+- Clinton St & Washington Blvd
+- Kingsbury St & Kinzie St
+- Clinton St & Madison St
+
+**Q8. Most popular end station for each member is?**
+
+Top 3 end station `Casual customer` more often using bike service
+- Streeter Dr & Grand Ave
+- DuSable Lake Shore Dr & Monroe St
+- Michigan Ave & Oak St
+
+Top 3 end station `Members customer` more often using bike service
+- Clinton St & Washington Blvd
+- Kingsbury St & Kinzie St
+- Clinton St & Madison St
+
+**Q9. Most popular route for each member is?**
+
+Top 3 route `Casual customer` more often using bike service
+- From Streeter Dr & Grand Ave to Streeter Dr & Grand Ave
+- From DuSable Lake Shore Dr & Monroe St to DuSable Lake Shore Dr & Monroe St
+- From DuSable Lake Shore Dr & Monroe St to Streeter Dr & Grand Ave
+
+Top 3 route `Members customer` more often using bike service
+- From State St & 33rd St to Calumet Ave & 33rd St
+- From University Ave & 57th St to Ellis Ave & 60th St
+- From Calumet Ave & 33rd St to State St & 33rd St
 
 ### Act
 
