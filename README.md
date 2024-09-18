@@ -42,44 +42,61 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 
 ## My Solutions <a class = 'anchor' id = 'solutions'></a>
 
-### ASK
+### 1. ASK
 
 After read a requirement very clearly and undertand problem statement of this case study. I need to follow key problem about What different between annual members and casual riders using company service. To break the problem down I want to think about a lot of question and dive in with dataset to finding and slove this problem. I have 9 question to answer is:
 
-*`1. Current differrent of each member? Quantity and Percentage?`*
+- **Q1. Current differrent of each member? Quantity and Percentage?**
 
-*`2. Different about using type of bike by each member? Quantity and Percentage?`*
+- **Q2. Different about using type of bike by each member? Quantity and Percentage?**
 
-*`3. How many member of each type using bike service each month? Calculate Percentage for each type of member each month?`*
+- **Q3. How many member of each type using bike service each month? Calculate Percentage for each type of member each month?**
 
-*`4. How many member of each type using bike service each day of week? Calculate Percentage for each type of member each day of week?`*
+- **Q4. How many member of each type using bike service each day of week? Calculate Percentage for each type of member each day of week?**
 
-*`5. Overall average duration compare with Avg duration on week day by each member?`*
+- **Q5. Overall average duration compare with Avg duration on week day by each member?**
 
-*`6. Number of Members Using Bike Service Each Hour of the Day? Percentage of Members Using Bike Service for Each Hour? Overall Percentage for the Entire Day?`*
+- **Q6. Number of Members Using Bike Service Each Hour of the Day? Percentage of Members Using Bike Service for Each Hour? Overall Percentage for the Entire Day?**
 
-*`7. Most popular start station for each member is?`*
+- **Q7. Most popular start station for each member is?**
 
-*`8. Most popular end station for each member is?`*
+- **Q8. Most popular end station for each member is?**
 
-*`9. Most popular route for each member is?`*
+- **Q9. Most popular route for each member is?**
 
-### Prepare
+### 2. Prepare
 
 I choose to work with just half year of 2024 data it very nearly. I download all dataset i need in this [Link](https://divvy-tripdata.s3.amazonaws.com/index.html). This link provided by Google when i entries to solve this case so it very safe for everyone who want to access and practice to solve this casestudy. I download 6 csv files to prepare for analysis is:
 
-[`202401-divvy-tripdata.csv`]
-[`202402-divvy-tripdata.csv`]
-[`202403-divvy-tripdata.csv`]
-[`202404-divvy-tripdata.csv`]
-[`202405-divvy-tripdata.csv`]
-[`202406-divvy-tripdata.csv`]
+- [`202401-divvy-tripdata.csv`](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/blob/main/Bike-Share-Data/202401-divvy-tripdata.csv)
+- [`202402-divvy-tripdata.csv`](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/blob/main/Bike-Share-Data/202402-divvy-tripdata.csv)
+- [`202403-divvy-tripdata.csv`](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/blob/main/Bike-Share-Data/202403-divvy-tripdata.csv)
+- [`202404-divvy-tripdata.csv`](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/blob/main/Bike-Share-Data/202404-divvy-tripdata.csv)
+- [`202405-divvy-tripdata.csv`](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/blob/main/Bike-Share-Data/202405-divvy-tripdata.csv)
+- [`202406-divvy-tripdata.csv`](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/blob/main/Bike-Share-Data/202406-divvy-tripdata.csv)
 
 I store it in prive local computer with folder named is: [Bike-Share-Data](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/tree/main/Bike-Share-Data) and start to direct them to next step
 
-### Process
-### Analyze
+### 3. Process
+
+In this case, I challange myself with 3 tool popular for analysis is `Excel`, `Python` and `SQL`
+
+- First, I using `Excel` to observate all collumn in dataset before I do anything. I clean and merge them by using DAX in `Excel`. After then, I almost using pivot table to analyze and create visualization on this
+
+- In `SQL`, I use `Azure Data Studio` to write `SQL` query for this casestudy. First, I import all file, observate them before do anything. I using query to clean and analyze this all the time
+
+- This is same thing i do in `Python`. With `Python` enviroment i using `Jupiter Notebook` for this case study. I clean them merge them and analyze them by using necessary libaries, function 
+
+### 4. Analyze
+
+Download and View my analyze in `Excel` here: [Data Exploration Analysis - Excel.xlsx]()
+View my analyze in `Python` here: [Data Exploration Analysis - Python.ipynb]()
+View my analyze in `SQL` here: [Data Exploration Analysis - SQL.sql]()
+
 ### Share
+
+
+
 ### Act
 
 
