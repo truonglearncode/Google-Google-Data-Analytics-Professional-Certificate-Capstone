@@ -93,7 +93,7 @@ In this case, I challange myself with 3 tool popular for analysis is `Excel`, `P
 - View my analyze in `Python` here: [Data Exploration Analysis - Python.ipynb](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/blob/main/Data%20Exploration%20Analysis%20-%20Python.ipynb)
 - View my analyze in `SQL` here: [Data Exploration Analysis - SQL.sql](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/blob/main/Data%20Exploration%20Analysis%20-%20SQL.sql)
 
-### Share
+### 5. Share
 
 **Q1: Current differrent of each member? Quantity and Percentage?**
 
@@ -201,7 +201,46 @@ Top 3 route `Members customer` more often using bike service
 - From University Ave & 57th St to Ellis Ave & 60th St
 - From Calumet Ave & 33rd St to State St & 33rd St
 
-### Act
+### 6. Act
 
+Here is some my recomendation for future marketing stategy for goal is convert `Casual customer` to `Member customer` and another goal I need to reach is keep 'Member customer' more often using service of our company
 
+- First of all, we need go into digital marketing field include using website, application, social media flatform to advertise our service to everone who need using our service. Sevaral option we need to discus is.
+- Using social media flatfrom such as Facebook, Instagram, TikTok to advertise our service by using image, text, video to potential customers. By this way, we can provide to our customer what benefit of our service, we can update information customer need about member plan, news, context,...
+- Develop application like mobile app and website to help customer easy to find any information customer need, include this sevaral feature like map for customer easy to find closest station to using service, remind customer drive routine each day by app notification, remind time top stop , payment system can help customer easy to rent a bike or make a reservation by cash on this app. Moreover we can include health service to this application to track customer health and suggest sevaral excersice for each customer conditions,...
 
+For `Casual customer`
+
+- We using social media to encourage them in time this customer seg mement less using service is: 6 - 8 AM, and 5-8 PM. We can highlight what benefit of using service this time is more effective for customer about overall health, mental health, relaxation and more. Moreover, we need provide them what values `casual customer` will get after upgrade to `member customer`. By this way we can improve `casual customer` upgrade to `member customer`
+
+- Using influencer in each social media flatform make our company easy make connection with potential customer. We can using them to evualate and share their experience of our service about rental process, customer experience, what values customer get during using our service, what difference betwen `casual plan` and `member plan`. This way we can connect our customer closely and naturally and easy to convert them to `member customer`
+
+- Create sevaral context about drive bike on festival or donation thoughout the year. This way make our company more attention and encourage everyone to joins and offer them special offer if who want to become a `member` of our company.
+
+- Often hold an event in popular station, in this event we can explain what values of member plan can help `casual customer` improve thier life and health. In order hand, gift and special offer must have for this event
+
+For `Member customer`
+
+- We need to provide them mobile application with sevaral feature can help them improve thier life and health such as optimize thier time while using bike, tracking health metrics and make suggestion, maps can show closest station for using service, caculate best way for stranportation, payment process make more easier, suggest route for ride, remind customer for daily routine, chat with friend, set schedule,...
+
+- We need to offer Membership Program throughout the year (at least one times a year). In this program our company will hold an event for every our `member customer` who can joins, talk with each other and have a chance to get a free gift (big values) in the end of event. We can conect our  `member customer` together to share a story, ride journey and we can collect feedback of this segment to improve our service in the future
+
+- Same with `Casual customer`, often hold an event in popular station, this time we takecare them by giving them some free servive about water, snack, voucher discount, solve their concern, more and more activity in this event make sure customer experience using bike service better and better
+
+## Bottom Line <a class = 'anchor' id = 'bottomline'></a>
+
+Hi there
+
+I have completed this case study I want to thanks Google and Coursera give me a great opportunity to learn and practice with real work project this very helpful for me in future. But now as beginer I feel so confident and knowledgeable to find a first job of data analytics field. After this casestudy I learned a lot of thing such as
+
+- How to ask right question, effective question to solve business problem
+- How to use analytic software like Excel, Azure Data Studio,Anaconda,Jupyter Notebook, Google Collab and programing environment like Python, SQL
+- How to create report or dashboard by using Excel, Power Point, Power BI,...
+- How to findout insight, improve them to recommendation and make decision base on data
+- Some thing else about data storing, data preprocessing, data cleanning, data structure, more and more
+
+Im very excited about anything I have learn thoughtout courses and casestudy but I need to learn more about this field in future to better and better than today. So now thanks for viewing my repositories. Should you have any inquiries or require additional information regarding this project, please feel free to reach out to me. I am available to provide any necessary assistance
+
+Truong Ngo
+
+Thanks
