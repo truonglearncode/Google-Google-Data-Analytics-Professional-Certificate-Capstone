@@ -245,3 +245,4 @@ Truong Ngo
 
 Thanks
 
+![Certificates](https://github.com/truonglearncode/Google-Google-Data-Analytics-Professional-Certificate-Capstone/blob/main/Certificates.png)
